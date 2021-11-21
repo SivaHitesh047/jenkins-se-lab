@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 import unittest 
 from add_list import add_list_func
 
