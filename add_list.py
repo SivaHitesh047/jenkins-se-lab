@@ -1,4 +1,4 @@
-#!usr/bin/python3
+#!usr/bin/python
 
 def add_list_func(num_list):
 	return sum(num_list)
