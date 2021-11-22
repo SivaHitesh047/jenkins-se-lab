@@ -5,7 +5,7 @@ from add_list import add_list_func
 
 class TestAddList(unittest.TestCase):
 	def test_add_list_one(self):
-		self.assertEqual(sum([1,2,3,4,5], 15)
+		self.assertEqual(sum([1,2,3,4,5]), 15)
 	
 	def test_add_list_two(self):
 		self.assertEqual(sum([6,7,8,9]), 30)
